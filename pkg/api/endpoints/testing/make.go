@@ -17,7 +17,7 @@ limitations under the License.
 package testing
 
 import (
-	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
+	metav1 "k8s.io/apimachinery/pkg/apis/meta/v2"
 
 	api "k8s.io/kubernetes/pkg/apis/core"
 )
